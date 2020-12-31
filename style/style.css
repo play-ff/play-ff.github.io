@@ -1,0 +1,81 @@
+body {
+	background-image: url(../img/background.jpg);
+	background-attachment: fixed;
+	background-size: 1100px;
+}
+
+#font {
+	background-image:url(https://clck.ru/SghJZ);
+	background-repeat: no-repeat;
+	padding: 150px;
+	background-size: 100%;
+}
+
+.menu {
+	text-align: center;
+	margin:30px;
+}
+
+#menu_1 {
+	color: white;
+	font-size: 3.5em;
+	text-decoration: none;
+	margin-left: 30px;
+	font-family: arial;
+}
+
+.happy {
+	color: white;
+	font-size: 3.7em;
+	font-family: arial;
+	background-color:#FF0066;
+	border-radius: 100px 40px;
+	padding: 20px;
+}
+
+.content {
+	color: white;
+	font-size: 4em;
+	font-family: arial;
+	text-align: center;
+}
+
+.menu_2 {
+	text-align: center;
+	margin:5%;
+}
+
+#href_2 {
+	color: white;
+	font-size: 3.7em;
+	font-family: arial;
+	text-decoration: none;
+	background-color: #FF7700;
+	padding: 20px;
+	border-radius: 50px;
+	margin-bottom: 1039px;
+}
+
+.news {
+	color: white;
+	font-family: arial;
+	font-size: 3em;
+	background-color: #2C2C34;
+	border:2px solid white;
+	margin:20px;
+	padding: 10px;
+	border-radius: 30px;
+}
+
+#cont_href {
+	color: white;
+	font-size: 1em;
+	text-decoration: none;
+}
+
+.time {
+	color: grey;
+	font-size: 0.3em;
+	font-family: arial;
+	text-align: left;
+}
