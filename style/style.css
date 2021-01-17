@@ -105,3 +105,12 @@ body {
 	color:#2EA6E3;
 	font-size: 20px;
 }
+
+.download {
+	color: black;
+	font-size: 30px;
+	background-color: #F5A80A;
+	padding: 10px;
+	border-radius: 100px;
+	text-decoration: none;
+}
