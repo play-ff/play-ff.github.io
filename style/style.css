@@ -95,6 +95,10 @@ body {
 	margin: 40px;
 }
 
+#text_news {
+	font-size: 25px;
+}
+
 .zagalovok {
 	color: #F5A80A;
 	font-size: 4em;
