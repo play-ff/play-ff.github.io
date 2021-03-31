@@ -26,10 +26,45 @@ body {
   border-radius: 10px;
   background: rgb(64,199,129);
   box-shadow: 0 -3px rgb(53,167,110) inset;
-  transition: 0.2s;
+  transition: 0.5s;
   margin: 10px;
 }
 
 #href:hover {
 	background-color: red;
+}
+
+#info {
+	color: white;
+	font-size: 55px;
+	transition: 1.5s;
+	font-family: arial ;
+}
+
+#info:hover {
+	color: #40c781;
+	border-radius: 100px;
+	padding: 25px;
+	text-decoration: line-through;
+	background-color: #737375;
+}
+
+#news {
+	color: white;
+	font-family: arial black;
+	text-decoration: none;
+	text-align: center;
+	font-size: 4em;
+
+}
+
+#content {
+	box-shadow: 0 0 5px 2px white;	
+	width: 80%;
+	margin-top: 30px;
+}
+
+#cont_2 {
+	color: white;
+	font-size: 3em;
 }
