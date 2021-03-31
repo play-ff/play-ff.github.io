@@ -1,0 +1,35 @@
+body {
+	background-color: #29332A;
+}
+
+#name_site {
+	color: white;
+	font-family: arial black;
+	font-size: 100px;
+	text-align: center;
+	background-image: url(https://i.gifer.com/Z6W8.gif);
+	padding: 10px;
+}
+
+#menu {
+	text-align: center;
+	padding: 10px;
+}
+
+#href {
+  font-weight: 700;
+  font-size: 4em;
+  color: white;
+  font-family: arial;
+  text-decoration: none;
+  padding: 5px 20px;
+  border-radius: 10px;
+  background: rgb(64,199,129);
+  box-shadow: 0 -3px rgb(53,167,110) inset;
+  transition: 0.2s;
+  margin: 10px;
+}
+
+#href:hover {
+	background-color: red;
+}
