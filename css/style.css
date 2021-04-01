@@ -55,8 +55,8 @@ body {
 #content {
 	box-shadow: 0 0 20px 0.5px #5F7661;	
 	width: 80%;
-	padding-top: 1%;
-	padding-bottom: 1%;
+	padding-top: 0.4%;
+	padding-bottom: 0.1%;
 	margin-top: 50px;
 	border-radius: 20px 40px;
 	background-color: #273028;
@@ -68,6 +68,7 @@ body {
 	color: white;
 	font-size: 2.2em;
 	font-family: arial;
+	padding: 5px;
 }
 
 #zag {
