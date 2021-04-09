@@ -53,16 +53,12 @@ body {
 }
 
 #content {
-	box-shadow: 0 0 20px 0.5px #5F7661;	
-	width: 80%;
-	padding-top: 0.4%;
-	padding-bottom: 0.1%;
-	margin-top: 50px;
-	border-radius: 20px 40px;
-	background-color: #273028;
-	margin-right: -10px;
-	margin-left: 10%;
+	border-radius: 10px;
+	width: 90%;
+	margin-top: 40px;
+	box-shadow: 0 0 30px rgba(0,0,0,0.5);
 }
+
 
 #cont_2 {
 	color: white;
@@ -72,8 +68,19 @@ body {
 }
 
 #zag {
-	color: #FF9800;
+	color: #E9C400;
 	font-size: 4em;
 	text-align: center;
 	font-family: arial black;
+}
+
+#knopka {
+	font-size: 30px;
+	color: white;
+	text-decoration: none;
+	padding: 20px;
+	font-family: arial black;
+	background-color: #EDC408;
+	border-radius: 20px 10px;
+	text-shadow: black 1px 3px 4px;
 }
