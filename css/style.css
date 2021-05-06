@@ -62,7 +62,7 @@ body {
 
 #cont_2 {
 	color: white;
-	font-size: 40px;
+	font-size: 45px;
 	font-family: arial;
 	padding: 5px;
 }
@@ -75,23 +75,23 @@ body {
 }
 
 #knopka {
-	font-size: 30px;
+	font-size: 40px;
 	color: white;
 	text-decoration: none;
 	padding: 20px;
 	font-family: arial black;
 	background-color: #EDC408;
 	border-radius: 20px 10px;
-	text-shadow: black 1px 3px 4px;
+	text-shadow: black 5px 1px 10px;
 }
 
 input[type="text"] {
 	color: black;
-	padding: 5px;
-	font-size: 0.8em;
+	padding: 15px;
+	font-size: 1.2em;
 	text-align: center;
 	font-family: tahoma;
-	width: 300px;
+	width: 500px;
 	height: 30px;
 	border-radius: 20px;
 	text-decoration: none;
