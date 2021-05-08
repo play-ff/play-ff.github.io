@@ -1,0 +1,53 @@
+body {
+	background-image: url("https://reward.ff.garena.com/images/5576eed3ef195deaa9c44f08ce730717.jpg");
+	background-size: 150%;
+	opacity: 100%;
+	background-attachment: fixed;
+}
+
+#name {
+	color: white;
+	font-size: 5em;
+	font-family:tahoma;
+	margin-top: 30%;
+}
+
+#name2 {
+	color: white;
+	font-size: 3em;
+	font-family: tahoma;
+}
+
+#hh {
+	color: black;
+	width: 95%;
+	padding:20px;
+	font-family: arial;
+	font-size: 3em;
+	height: 95%;
+	margin-top: 40px;
+	border-radius: 20px;
+	margin-left: 1%;
+	background-color: #E0DDD1;
+}
+
+#promo {
+	font-size: 4em;
+	padding: 10px;
+	text-decoration: none;
+	border-radius: 30px;
+	border:2px solid black;
+	font-family: tahoma;
+	text-align: center;
+}
+
+#del {
+	font-family: arial black;
+	width: 120%;
+	font-size: 4em;
+	background-color: #FF9800;
+	padding: 10px;
+	border-radius: 20px;
+	text-decoration: none;
+	color: black;
+}
