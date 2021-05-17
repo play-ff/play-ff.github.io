@@ -1,0 +1,92 @@
+body {
+	background-color: #1F252A;
+	background-size: 100%;
+}
+
+.logo {
+	font-size: 4em;
+	text-align: center;
+	color: #5FCD6A;
+	font-family: cursive;
+	text-shadow: 1px 1px 2px black, 0 1px 1em #5FCD6A;
+}
+
+.menu {
+	text-align: center;
+	padding: 15px;
+	width: 700px;
+	margin-top: 20px;
+	background-position: center;
+	border-radius: 100px;
+	border:1px solid #5FCD6A;
+}
+
+#href {
+	color: white;
+	padding: 5px;
+	font-size: 2.8em;
+	text-decoration: none;
+	font-family: Lucida console;
+	margin-left: 30px;
+	transition: 0.5s;
+}
+
+#href:hover {
+	background-color: #5FCD6A;
+	border-radius: 100px;
+	padding: 10px;
+	background-size: 30px;
+}
+
+.info {
+	text-align: center;
+	margin-top: 20px;
+}
+
+#info1 {
+	color: white;
+	font-family: arial;
+	font-size: 2em;
+}
+
+#Telegram {
+	color: #28A0DC;
+}
+
+
+.news1 {
+	text-align: center;
+}
+
+#news {
+	color: white;
+	font-size: 3em;
+	font-family: arial;
+}
+
+.cont {
+	background-size: #1F252A;
+	box-shadow: 5px 5px 15px black;
+	margin-left: 8%;
+	padding: 5px;
+	padding-top:2%;
+	transition: 1s;
+	max-width: 85%;
+	margin-top: 20px;
+	margin-bottom: 10px;
+}
+.cont img {
+	max-width: 100%;
+	height: auto;
+}
+
+.cont:hover {
+	width: 90%;
+	padding: 7px;
+}
+
+#cont_text {
+	color: white;
+	font-size: 2.3em;
+	font-family: tahoma;
+}
