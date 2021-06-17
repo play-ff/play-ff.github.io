@@ -1,7 +1,10 @@
 body {
 	background-image: url(https://goodakk.ru/assets/93f8d5f2/images/pattern_bg.jpg);
 }
-
+ 
+a {
+	-webkit-tap-highlight-color: transparent;
+}
 .log {
 	color: #C6FF03 ;
 	font-size: 7em;
